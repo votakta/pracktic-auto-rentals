@@ -1,0 +1,44 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Backend
+backend/node_modules/
+backend/.env
+backend/*.log
+
+# Word временные файлы
+~$*.docx
+~WRL*.tmp
+*.docx
+
+# Отчёт 
+Практика*.docx
+
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Backend
+backend/node_modules/
+backend/.env
+
+# Frontend
+frontend/node_modules/
+frontend/.env
+frontend/build/
+
+# Database
+*.db
+*.sqlite
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+logs/
+*.log
